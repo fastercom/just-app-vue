@@ -1,7 +1,7 @@
 {
-  "name": "lz-paper",
+  "name": "vue-project",
   "version": "1.0.0",
-  "description": "ui for lz-paper",
+  "description": "ui for vue-project-protype",
   "author": "wangweiwei <xd8012@163.com>",
   "private": true,
   "scripts": {

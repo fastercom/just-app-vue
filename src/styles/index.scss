@@ -1,9 +1,16 @@
 @import './_variables.scss';
 
-html, body {
-  font-family: $base-font-family-system, $base-font-family-en, $base-font-family-cn
+html {
+  min-width: 320px;
+  min-height: 100vh;
 }
-
+html, body {
+  font-family: $base-font-family-system, $base-font-family-en, $base-font-family-cn;
+}
+body {
+  font-size: .14rem;
+  line-height: 1.5;
+}
 *, *:before, *:after {
   box-sizing: border-box;
 }
